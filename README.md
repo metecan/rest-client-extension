@@ -10,7 +10,7 @@ and folders, environments, and history.
 
 ## Use it
 
-Click the arrows in the top bar, or run **REST: Toggle Sidebar** from the
+Click the `{ }` icon in the top bar, or run **REST: Toggle Sidebar** from the
 command palette (`Ctrl+Opt+H` by default). The sidebar opens pinned to the
 right of the workspace.
 

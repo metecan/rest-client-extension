@@ -39,7 +39,7 @@
         "id": "rest",
         "title": "REST",
         "icon": {
-          "svg": "assets/rest.svg"
+          "svg": "assets/braces.svg"
         },
         "entry": "app/sidebar.html",
         "position": "right",
@@ -78,7 +78,7 @@
       {
         "id": "rest",
         "icon": {
-          "svg": "assets/rest.svg"
+          "svg": "assets/braces.svg"
         },
         "command": "toggle-panel",
         "tooltip": "REST Client"

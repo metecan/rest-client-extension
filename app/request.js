@@ -1423,7 +1423,7 @@ async function boot() {
   initSplitter();
   renderAll();
   updateTitle(true);
-  m.tabs?.setIcon?.({ symbol: "arrow.left.arrow.right" })?.catch?.(() => {});
+  m.tabs?.setIcon?.({ symbol: "curlybraces" })?.catch?.(() => {});
   store.onBus(onBus);
   hello();
   m.lifecycle?.onBeforeClose?.(beforeClose);

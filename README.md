@@ -4,6 +4,10 @@ An HTTP client inside Muxy. Each request opens as an editor tab next to your
 terminals. A sidebar on the right holds your open requests, saved collections
 and folders, environments, and history.
 
+![A POST request with a JSON body next to its 201 response, and the sidebar with open requests, a Shop API collection, and history](screenshots/screenshot-1.png)
+
+![A GET request with query parameters and its JSON response, stacked, next to the environments editor](screenshots/screenshot-2.png)
+
 ## Use it
 
 Click the arrows in the top bar, or run **REST: Toggle Sidebar** from the
